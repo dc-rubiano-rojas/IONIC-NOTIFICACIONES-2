@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858991443302",
+    "firebase_url": "https://ionic-curso-6edb1.firebaseio.com",
+    "project_id": "ionic-curso-6edb1",
+    "storage_bucket": "ionic-curso-6edb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858991443302:android:819e3bae539c40239a5ca7",
+        "android_client_info": {
+          "package_name": "com.daniel.camilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858991443302-r66pd461jvhiuj0jf9lcelea265o9sit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7M_3jtyXfhIiX1tD9Ue-hibQuKJsX6K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858991443302-r66pd461jvhiuj0jf9lcelea265o9sit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
